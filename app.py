@@ -1,5 +1,3 @@
-import os
-os.system('pip install tensorflow')
 
 import streamlit as st
 import numpy as np
