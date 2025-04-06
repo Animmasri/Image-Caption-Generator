@@ -1,3 +1,4 @@
+pip install tensorflow==2.12.0
 
 import streamlit as st
 import numpy as np
